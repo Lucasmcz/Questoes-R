@@ -1,4 +1,4 @@
-#1+9+2+1+1+5+9+9 = 10+18+9 = 37
+
 amostra <- 387#Amostra
 total <- 35000
 media <- 837#Media
